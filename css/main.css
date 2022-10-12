@@ -1,8 +1,19 @@
-.texto { 
-    color:blue;
+.Fondo1 { 
+    background-color:#c5ececa4 ;
+    color: rgb(27, 27, 76);
 
 
 }
+
+.Fondo2 { 
+    background-color:rgb(218, 238, 237) ;
+    color: rgb(23, 23, 92);
+
+
+}
+
+
+
 
 
 .pollo { 
@@ -12,14 +23,51 @@
 }
 
 
+
+.Espacios { 
+    margin-bottom: 150px;
+
+
+}
+
+
+
+
+
 #Apellido { 
-    color: blueviolet;
+    color: rgb(131, 134, 173);
 
 
 }
 
 p { 
-    color:rgb(99, 84, 141) !important;
+    color:rgb(8, 8, 8) !important;
 
+
+}
+
+.Foto {
+
+    max-width: 40%;
+    height: auto;
+    margin:auto;
+
+
+}
+
+
+.FondoP  {
+    background: url('../img/fondocv.jpg');
+    width: 100%;
+    height: 50vh;
+  }
+
+
+  .parent{
+    text-align : center;
+   }
+
+.letra{
+ font-family:  'Lucida Sans';
 
 }
